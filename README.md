@@ -1,6 +1,6 @@
 # Node Task Managment Application
 
-This application allows you to create an accoutn and login to create, read, update, and delete tasks.
+This application allows you to create an account and login to create, read, update, and delete tasks.
 
 An advanced node application used to learn about building/using RESTful APIs, user authentication, web tokens, NOSQL/MongoDB, middleware, promises, async/await, and asynchronous programming.
 
@@ -18,7 +18,7 @@ Install npm dependencies
 npm install
 ```
 
-Run the web server
+Run the local dev server
 
 ```
 npm run dev
